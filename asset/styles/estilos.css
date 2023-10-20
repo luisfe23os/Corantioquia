@@ -126,5 +126,25 @@ ul {
   margin-top: 0%;
 }
 
+/* .container-fluid{
+  background-color: chartreuse;
+} */
+/* .menucolor{
+  background-color: rgba(83, 168, 68, 0.512);
+} */
+
+.columnaDashboard{
+  height: 100vh;
+}
+
+.blancoNegro:hover {
+  transform: scale(1.05);  
+  box-shadow: 0px 0px 5px 1px rgb(250, 249, 249);
+}
+
+.bg-Verde{
+  background-color: aqua;
+  /* background-color: #80F01A; */
+}
 
 
